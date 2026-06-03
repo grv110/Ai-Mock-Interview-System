@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:9001/api";
+const BASE_URL = "https://ai-mock-interview-system-two.vercel.app/api";
 
 export const API_PATHS = {
   AUTH: {
